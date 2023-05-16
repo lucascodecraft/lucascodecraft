@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas Lima he/him/his </h1>
+<h1 align="center">Hi 👋, I'm Lucas Lima</h1>
 <h3 align="center">A passionate FullStack Developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/KXCH0eN.gif">
 
