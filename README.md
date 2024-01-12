@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucascodecraft&label=Profile%20views&color=0e75b6&style=flat" alt="lucascodecraft" /> </p>
 
-- 🌱 I’m currently learning and working with **Dotnet, Angular**
+- 🌱 I’m currently learning and working with **Dotnet, Node.js, React e Angular**
 
 - ⚡ Fun fact **I am Funny**
 
